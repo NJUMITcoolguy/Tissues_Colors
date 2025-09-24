@@ -6,7 +6,7 @@
 
 | 组织 (Tissue) | RGB值 (RGB Value) | 颜色 (Color) |
 | :--- | :--- | :--- |
-| 三角肌 | 0, 128, 255 | <span style="display:inline-block;width:20px;height:20px;background-color:rgb(0, 128, 255);border:1px solid #ccc;"></span> |
+| 三角肌 | 0, 128, 255 | <span style="color: #FF0000;">◼</span> 红色方块 |
 | 冈上肌腱 | 0, 255, 128 | <span style="display:inline-block;width:20px;height:20px;background-color:rgb(0, 255, 128);border:1px solid #ccc;"></span> |
 | 大结节 | 255, 0, 128 | <span style="display:inline-block;width:20px;height:20px;background-color:rgb(255, 0, 128);border:1px solid #ccc;"></span> |
 | 肱骨头 | 128, 255, 0 | <span style="display:inline-block;width:20px;height:20px;background-color:rgb(128, 255, 0);border:1px solid #ccc;"></span> |
